@@ -1,3 +1,2 @@
 #!/bin/bash
-date=$(date + %F)
-echo hey today date is $date
+echo -e "\e[31m hello uma \e[0m"
