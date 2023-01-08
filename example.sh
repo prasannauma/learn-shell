@@ -1,2 +1,1 @@
-ls
-cat  example.sh
+echo hello world
