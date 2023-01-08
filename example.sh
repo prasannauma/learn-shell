@@ -1,3 +1,2 @@
 ls
-cd example.sh
-cat example.sh
+cat  root/etc/passwd
